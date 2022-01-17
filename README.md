@@ -11,3 +11,4 @@
 ![image](https://user-images.githubusercontent.com/57168985/148688590-31031553-7084-46ea-af42-dc178741628c.png)
 # NDC-ScreenSpace VolumeFog
 ![NDCScreen_VolumeFog2](https://user-images.githubusercontent.com/57168985/149804657-1542fe20-e281-43dd-bbd2-9f8b3b4bd3e7.gif)
+*need a plane be Ground or NDCSpace would not correct.
