@@ -41,10 +41,15 @@ public class TN_PostEffectBase : MonoBehaviour
             return null;
         if(Mat == null)
             return new Material(shader);
+        if(Mat || Mat.shader == shader)
+            return Mat;
         else
         {
-            Mat.shader = shader;
-            return Mat;
+            Mat = new Material(shader);
+            if(Mat)
+                return Mat;
+            else    
+                return null;
         }
 
     }
