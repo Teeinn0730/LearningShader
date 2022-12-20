@@ -15,3 +15,8 @@
 # RainyEffect
 *Ref https://www.youtube.com/watch?v=EBrAdahFtuo
 ![RainyScreen_Short](https://user-images.githubusercontent.com/57168985/154852778-2a0f91bc-e872-43eb-9bd1-a705a4d44f19.gif)
+# Post-Processing (Depth Fog)
+**Before**
+![image](https://user-images.githubusercontent.com/57168985/208729559-1c913ac6-1b0b-42f2-b022-8c3651f512ba.png)
+**After**
+![image](https://user-images.githubusercontent.com/57168985/208729666-343bb432-f9ed-47a5-8bbd-d8f894d13a19.png)
